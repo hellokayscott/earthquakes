@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_scripts">
+    <pa_scripts action="INSERT_OR_UPDATE">
+        <arguments>day</arguments>
+        <description/>
+        <name>Earthquakes.day</name>
+        <script><![CDATA[var whichDay = function days(){ return current.day;};
+whichDay();]]></script>
+        <sys_class_name>pa_scripts</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-06 22:00:42</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e47a08fedb6123006a326a49489619e3</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Earthquakes.day</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Earthquakes" source="x_58872_earthquake">f6120c5ddbb023006a326a49489619cd</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</sys_scope>
+        <sys_update_name>pa_scripts_e47a08fedb6123006a326a49489619e3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-07 00:32:22</sys_updated_on>
+        <table>x_58872_earthquake_earthquake_data</table>
+    </pa_scripts>
+    <sys_translated_text action="delete_multiple" query="documentkey=e47a08fedb6123006a326a49489619e3"/>
+</record_update>

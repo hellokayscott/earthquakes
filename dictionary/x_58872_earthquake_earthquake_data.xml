@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Earthquake Data" max_length="40" name="x_58872_earthquake_earthquake_data" sizeclass="6012" type="collection">
+        <element label="Country" max_length="32" name="country" reference="core_country" type="reference"/>
+        <element label="Day" max_length="40" name="day" type="integer"/>
+        <element label="Deaths" max_length="40" name="deaths" type="integer"/>
+        <element label="Earthquake date" max_length="40" name="earthquake_date" type="glide_date_time"/>
+        <element label="Hour" max_length="40" name="hour" type="integer"/>
+        <element label="Houses destroyed" max_length="40" name="houses_destroyed" type="integer"/>
+        <element label="Injuries" max_length="40" name="injuries" type="integer"/>
+        <element label="Magnitude" max_length="20" name="magnitude" type="decimal"/>
+        <element label="Minute" max_length="40" name="minute" type="integer"/>
+        <element label="Month" max_length="40" name="month" type="integer"/>
+        <element label="Tsunami" max_length="40" name="tsunami" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Additional details" max_length="2000" name="u_string_1" type="string"/>
+        <element label="Year" max_length="40" name="year" type="integer"/>
+        <index name="index">
+            <element name="country"/>
+        </index>
+    </element>
+</database>

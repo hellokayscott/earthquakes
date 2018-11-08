@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Earthquake import" max_length="40" name="x_58872_earthquake_earthquake_import" sizeclass="18096" type="collection">
+        <element attributes="import_attribute_name=COUNTRY,edge_encryption_enabled=true" label="COUNTRY" max_length="44" name="u_country" type="string"/>
+        <element attributes="import_attribute_name=DAMAGE_DESCRIPTION" label="DAMAGE_DESCRIPTION" max_length="40" name="u_damage_description" type="integer"/>
+        <element attributes="import_attribute_name=DAMAGE_MILLIONS_DOLLARS,edge_encryption_enabled=true" label="DAMAGE_MILLIONS_DOLLARS" max_length="40" name="u_damage_millions_dollars" type="string"/>
+        <element attributes="import_attribute_name=DAY" label="DAY" max_length="40" name="u_day" type="integer"/>
+        <element attributes="import_attribute_name=DEATHS" label="DEATHS" max_length="40" name="u_deaths" type="integer"/>
+        <element attributes="import_attribute_name=DEATHS_DESCRIPTION" label="DEATHS_DESCRIPTION" max_length="40" name="u_deaths_description" type="integer"/>
+        <element attributes="import_attribute_name=EQ_MAG_MB" label="EQ_MAG_MB" max_length="15" name="u_eq_mag_mb" type="decimal"/>
+        <element attributes="import_attribute_name=EQ_MAG_MFA" label="EQ_MAG_MFA" max_length="15" name="u_eq_mag_mfa" type="decimal"/>
+        <element attributes="import_attribute_name=EQ_MAG_ML" label="EQ_MAG_ML" max_length="15" name="u_eq_mag_ml" type="decimal"/>
+        <element attributes="import_attribute_name=EQ_MAG_MS" label="EQ_MAG_MS" max_length="15" name="u_eq_mag_ms" type="decimal"/>
+        <element attributes="import_attribute_name=EQ_MAG_MW" label="EQ_MAG_MW" max_length="15" name="u_eq_mag_mw" type="decimal"/>
+        <element attributes="import_attribute_name=EQ_MAG_UNK" label="EQ_MAG_UNK" max_length="15" name="u_eq_mag_unk" type="decimal"/>
+        <element attributes="import_attribute_name=EQ_PRIMARY" label="EQ_PRIMARY" max_length="15" name="u_eq_primary" type="decimal"/>
+        <element attributes="import_attribute_name=FLAG_TSUNAMI,edge_encryption_enabled=true" label="FLAG_TSUNAMI" max_length="40" name="u_flag_tsunami" type="string"/>
+        <element attributes="import_attribute_name=FOCAL_DEPTH" label="FOCAL_DEPTH" max_length="40" name="u_focal_depth" type="integer"/>
+        <element attributes="import_attribute_name=HOUR" label="HOUR" max_length="40" name="u_hour" type="integer"/>
+        <element attributes="import_attribute_name=HOUSES_DAMAGED" label="HOUSES_DAMAGED" max_length="40" name="u_houses_damaged" type="integer"/>
+        <element attributes="import_attribute_name=HOUSES_DAMAGED_DESCRIPTION" label="HOUSES_DAMAGED_DESCRIPTION" max_length="40" name="u_houses_damaged_description" type="integer"/>
+        <element attributes="import_attribute_name=HOUSES_DESTROYED" label="HOUSES_DESTROYED" max_length="40" name="u_houses_destroyed" type="integer"/>
+        <element attributes="import_attribute_name=HOUSES_DESTROYED_DESCRIPTION" label="HOUSES_DESTROYED_DESCRIPTION" max_length="40" name="u_houses_destroyed_description" type="integer"/>
+        <element attributes="import_attribute_name=INJURIES" label="INJURIES" max_length="40" name="u_injuries" type="integer"/>
+        <element attributes="import_attribute_name=INJURIES_DESCRIPTION" label="INJURIES_DESCRIPTION" max_length="40" name="u_injuries_description" type="integer"/>
+        <element attributes="import_attribute_name=INTENSITY" label="INTENSITY" max_length="40" name="u_intensity" type="integer"/>
+        <element attributes="import_attribute_name=I_D" label="I_D" max_length="40" name="u_i_d" type="integer"/>
+        <element attributes="import_attribute_name=LATITUDE,edge_encryption_enabled=true" label="LATITUDE" max_length="40" name="u_latitude" type="string"/>
+        <element attributes="import_attribute_name=LOCATION_NAME,edge_encryption_enabled=true" label="LOCATION_NAME" max_length="52" name="u_location_name" type="string"/>
+        <element attributes="import_attribute_name=LONGITUDE,edge_encryption_enabled=true" label="LONGITUDE" max_length="40" name="u_longitude" type="string"/>
+        <element attributes="import_attribute_name=MINUTE" label="MINUTE" max_length="40" name="u_minute" type="integer"/>
+        <element attributes="import_attribute_name=MISSING" label="MISSING" max_length="40" name="u_missing" type="integer"/>
+        <element attributes="import_attribute_name=MISSING_DESCRIPTION" label="MISSING_DESCRIPTION" max_length="40" name="u_missing_description" type="integer"/>
+        <element attributes="import_attribute_name=MONTH" label="MONTH" max_length="40" name="u_month" type="integer"/>
+        <element attributes="import_attribute_name=REGION_CODE" label="REGION_CODE" max_length="40" name="u_region_code" type="integer"/>
+        <element attributes="import_attribute_name=SECOND,edge_encryption_enabled=true" label="SECOND" max_length="40" name="u_second" type="string"/>
+        <element attributes="import_attribute_name=STATE,edge_encryption_enabled=true" label="STATE" max_length="40" name="u_state" type="string"/>
+        <element attributes="import_attribute_name=TOTAL_DAMAGE_DESCRIPTION" label="TOTAL_DAMAGE_DESCRIPTION" max_length="40" name="u_total_damage_description" type="integer"/>
+        <element attributes="import_attribute_name=TOTAL_DAMAGE_MILLIONS_DOLLARS,edge_encryption_enabled=true" label="TOTAL_DAMAGE_MILLIONS_DOLLARS" max_length="40" name="u_total_damage_llions_dollars" type="string"/>
+        <element attributes="import_attribute_name=TOTAL_DEATHS" label="TOTAL_DEATHS" max_length="40" name="u_total_deaths" type="integer"/>
+        <element attributes="import_attribute_name=TOTAL_DEATHS_DESCRIPTION" label="TOTAL_DEATHS_DESCRIPTION" max_length="40" name="u_total_deaths_description" type="integer"/>
+        <element attributes="import_attribute_name=TOTAL_HOUSES_DAMAGED,edge_encryption_enabled=true" label="TOTAL_HOUSES_DAMAGED" max_length="40" name="u_total_houses_damaged" type="string"/>
+        <element attributes="import_attribute_name=TOTAL_HOUSES_DESTROYED" label="TOTAL_HOUSES_DESTROYED" max_length="40" name="u_total_houses_destroyed" type="integer"/>
+        <element attributes="import_attribute_name=TOTAL_HOUSES_DESTROYED_DESCRIPTION" label="TOTAL_HOUSES_DESTROYED_DESCRIPTION" max_length="40" name="u_total_houses_ed_descriptio0" type="integer"/>
+        <element attributes="import_attribute_name=TOTAL_HOUSES_DAMAGED_DESCRIPTION" label="TOTAL_HOUSES_DAMAGED_DESCRIPTION" max_length="40" name="u_total_houses_ed_description" type="integer"/>
+        <element attributes="import_attribute_name=TOTAL_INJURIES" label="TOTAL_INJURIES" max_length="40" name="u_total_injuries" type="integer"/>
+        <element attributes="import_attribute_name=TOTAL_INJURIES_DESCRIPTION" label="TOTAL_INJURIES_DESCRIPTION" max_length="40" name="u_total_injuries_description" type="integer"/>
+        <element attributes="import_attribute_name=TOTAL_MISSING" label="TOTAL_MISSING" max_length="40" name="u_total_missing" type="integer"/>
+        <element attributes="import_attribute_name=TOTAL_MISSING_DESCRIPTION" label="TOTAL_MISSING_DESCRIPTION" max_length="40" name="u_total_missing_description" type="integer"/>
+        <element attributes="import_attribute_name=YEAR" label="YEAR" max_length="40" name="u_year" type="integer"/>
+    </element>
+</database>
