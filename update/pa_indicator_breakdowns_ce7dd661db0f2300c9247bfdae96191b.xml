@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_indicator_breakdowns">
+    <pa_indicator_breakdowns action="INSERT_OR_UPDATE">
+        <breakdown display_value="Earthquakes by Country">abcc1261db0f2300c9247bfdae96194f</breakdown>
+        <display>true</display>
+        <indicator display_value="Earthquakes:  Monthly New">13198367db0523006a326a49489619ed</indicator>
+        <order/>
+        <sql_statement/>
+        <sys_class_name>pa_indicator_breakdowns</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-17 01:03:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ce7dd661db0f2300c9247bfdae96191b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Earthquakes by Country.Earthquakes:  Monthly New</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Earthquakes" source="x_58872_earthquake">f6120c5ddbb023006a326a49489619cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</sys_scope>
+        <sys_update_name>pa_indicator_breakdowns_ce7dd661db0f2300c9247bfdae96191b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-17 01:03:23</sys_updated_on>
+    </pa_indicator_breakdowns>
+</record_update>

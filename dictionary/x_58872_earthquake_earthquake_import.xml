@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="sys_import_set_row" label="Earthquake import" max_length="40" name="x_58872_earthquake_earthquake_import" sizeclass="18096" type="collection">
+    <element extends="sys_import_set_row" label="Earthquake import" max_length="40" name="x_58872_earthquake_earthquake_import" type="collection">
         <element attributes="import_attribute_name=COUNTRY,edge_encryption_enabled=true" label="COUNTRY" max_length="44" name="u_country" type="string"/>
         <element attributes="import_attribute_name=DAMAGE_DESCRIPTION" label="DAMAGE_DESCRIPTION" max_length="40" name="u_damage_description" type="integer"/>
         <element attributes="import_attribute_name=DAMAGE_MILLIONS_DOLLARS,edge_encryption_enabled=true" label="DAMAGE_MILLIONS_DOLLARS" max_length="40" name="u_damage_millions_dollars" type="string"/>

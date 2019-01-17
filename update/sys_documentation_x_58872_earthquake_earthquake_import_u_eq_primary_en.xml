@@ -11,13 +11,11 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-09-25 23:31:49</sys_created_on>
-            <sys_customer_update>false</sys_customer_update>
-            <sys_id>b2dc4c55dbf023006a326a49489619a6</sys_id>
+            <sys_id>1a0cec65db872300c9247bfdae9619ac</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>EQ_PRIMARY</sys_name>
             <sys_package display_value="Earthquakes" source="x_58872_earthquake">f6120c5ddbb023006a326a49489619cd</sys_package>
             <sys_policy/>
-            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</sys_scope>
             <sys_update_name>sys_documentation_x_58872_earthquake_earthquake_import_u_eq_primary_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>

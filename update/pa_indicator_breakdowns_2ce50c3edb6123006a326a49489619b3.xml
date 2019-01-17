@@ -3,24 +3,22 @@
         <breakdown display_value="Eathquakes by Day">ff05c03edb6123006a326a4948961918</breakdown>
         <display>true</display>
         <indicator display_value="Earthquakes:  Monthly New">13198367db0523006a326a49489619ed</indicator>
-        <order>200</order>
+        <order>100</order>
         <sql_statement/>
         <sys_class_name>pa_indicator_breakdowns</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-11-06 21:39:19</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>2ce50c3edb6123006a326a49489619b3</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Eathquakes by Day.Earthquakes:  Monthly New</sys_name>
         <sys_overrides/>
         <sys_package display_value="Earthquakes" source="x_58872_earthquake">f6120c5ddbb023006a326a49489619cd</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</sys_scope>
         <sys_update_name>pa_indicator_breakdowns_2ce50c3edb6123006a326a49489619b3</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-11-06 21:39:19</sys_updated_on>
+        <sys_updated_on>2019-01-17 01:15:19</sys_updated_on>
     </pa_indicator_breakdowns>
 </record_update>

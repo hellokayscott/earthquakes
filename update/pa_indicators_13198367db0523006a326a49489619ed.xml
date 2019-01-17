@@ -2,7 +2,7 @@
     <pa_indicators action="INSERT_OR_UPDATE">
         <aggregate>1</aggregate>
         <benchmarking>false</benchmarking>
-        <collect_breakdown_matrix>false</collect_breakdown_matrix>
+        <collect_breakdown_matrix>true</collect_breakdown_matrix>
         <collect_records>true</collect_records>
         <conditions/>
         <contributor/>
@@ -15,6 +15,7 @@ The goal is for the number of monthly earthquakes to decrease (minimize)&#13;
 It is the sum of the indicator source Earthquakes.NewMonthly which uses the table x_58872_earthquake_earthquake_data with the condition Earthquake date on this month.</description>
         <direction>1</direction>
         <display>true</display>
+        <excluded_statistics/>
         <field>u_string_1</field>
         <forecast_base_periods>2</forecast_base_periods>
         <forecast_base_start>00000000</forecast_base_start>
@@ -25,10 +26,11 @@ It is the sum of the indicator source Earthquakes.NewMonthly which uses the tabl
         <forecast_upper_limit/>
         <formula/>
         <formula_aggregate_whole>false</formula_aggregate_whole>
+        <formula_allow_null>false</formula_allow_null>
         <frequency>40</frequency>
         <groups/>
         <has_managed_indicators>false</has_managed_indicators>
-        <id>101</id>
+        <id>113</id>
         <key>false</key>
         <label/>
         <linked_indicator/>
@@ -41,12 +43,12 @@ It is the sum of the indicator source Earthquakes.NewMonthly which uses the tabl
         <override_periods>true</override_periods>
         <precision>0</precision>
         <related_breakdowns>2</related_breakdowns>
-        <related_jobs>3</related_jobs>
+        <related_jobs>4</related_jobs>
         <render_continuous_lines>false</render_continuous_lines>
         <role_override>true</role_override>
         <roles/>
         <score_periods>1500</score_periods>
-        <scores_modified_at>2018-11-08 05:00:03</scores_modified_at>
+        <scores_modified_at>2019-01-17 23:40:46</scores_modified_at>
         <script/>
         <scripted>false</scripted>
         <show_delta>true</show_delta>
@@ -56,20 +58,18 @@ It is the sum of the indicator source Earthquakes.NewMonthly which uses the tabl
         <sys_class_name>pa_indicators</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-10-16 16:26:24</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>13198367db0523006a326a49489619ed</sys_id>
-        <sys_mod_count>20</sys_mod_count>
+        <sys_mod_count>27</sys_mod_count>
         <sys_name>Earthquakes:  Monthly New</sys_name>
         <sys_overrides/>
         <sys_package display_value="Earthquakes" source="x_58872_earthquake">f6120c5ddbb023006a326a49489619cd</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</sys_scope>
         <sys_update_name>pa_indicators_13198367db0523006a326a49489619ed</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-11-06 21:39:19</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-01-17 05:00:08</sys_updated_on>
         <type>1</type>
         <unit display_value="#">17b365e2d7320100ba986f14ce6103ad</unit>
         <users/>

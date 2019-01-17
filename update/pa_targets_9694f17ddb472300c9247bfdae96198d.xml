@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_targets">
+    <pa_targets action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <aggregate/>
+        <any_element>false</any_element>
+        <breakdown/>
+        <breakdown_level2/>
+        <color_scheme/>
+        <element/>
+        <element_level2/>
+        <indicator display_value="Earthquakes:  Monthly New">13198367db0523006a326a49489619ed</indicator>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <sys_class_name>pa_targets</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-17 16:43:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9694f17ddb472300c9247bfdae96198d</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>13198367db0523006a326a49489619ed</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Earthquakes" source="x_58872_earthquake">f6120c5ddbb023006a326a49489619cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</sys_scope>
+        <sys_update_name>pa_targets_9694f17ddb472300c9247bfdae96198d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-17 16:43:59</sys_updated_on>
+        <values_modified_at>2019-01-17 16:43:59</values_modified_at>
+    </pa_targets>
+</record_update>
