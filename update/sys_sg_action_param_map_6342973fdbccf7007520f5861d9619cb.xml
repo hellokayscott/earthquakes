@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Update Injuries">1d8cfebfdb8cf7007520f5861d961958</button>
+        <item_parameter display_value="Injuries">54568f37dbccf7007520f5861d9619b4</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-14 21:43:44</sys_created_on>
+        <sys_id>6342973fdbccf7007520f5861d9619cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>54568f37dbccf7007520f5861d9619b4</sys_name>
+        <sys_package display_value="Earthquakes" source="x_58872_earthquake">f6120c5ddbb023006a326a49489619cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_6342973fdbccf7007520f5861d9619cb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-14 21:43:44</sys_updated_on>
+        <ui_parameter display_value="New injury count">1e6b433bdbccf7007520f5861d9619ab</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

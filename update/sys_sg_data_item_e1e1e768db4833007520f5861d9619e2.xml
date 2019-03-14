@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <name>Earthquakes from 2017</name>
+        <query_condition table="x_58872_earthquake_earthquake_data">year=2017<item endquery="false" field="year" goto="false" newquery="false" operator="=" or="false" value="2017"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-04 20:31:14</sys_created_on>
+        <sys_id>e1e1e768db4833007520f5861d9619e2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Earthquakes from 2017</sys_name>
+        <sys_package display_value="Earthquakes" source="x_58872_earthquake">f6120c5ddbb023006a326a49489619cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</sys_scope>
+        <sys_update_name>sys_sg_data_item_e1e1e768db4833007520f5861d9619e2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-04 20:31:14</sys_updated_on>
+        <table>x_58872_earthquake_earthquake_data</table>
+    </sys_sg_data_item>
+</record_update>

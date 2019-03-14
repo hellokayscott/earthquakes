@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
+        <button/>
+        <button_parent_table/>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>none</default_value_type>
+        <field_name/>
+        <input_source>auto</input_source>
+        <input_style>inline</input_style>
+        <input_type>date</input_type>
+        <mandatory>false</mandatory>
+        <multi_select>false</multi_select>
+        <name>Period start</name>
+        <order/>
+        <parameter_type>screen</parameter_type>
+        <placeholder/>
+        <screen display_value="My Period">ab4dd453dbc4b7007520f5861d9619d2</screen>
+        <search_type>starts_with</search_type>
+        <source_field/>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-13 00:06:45</sys_created_on>
+        <sys_id>28ff911bdb48b7007520f5861d961962</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Period start</sys_name>
+        <sys_package display_value="Earthquakes" source="x_58872_earthquake">f6120c5ddbb023006a326a49489619cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_28ff911bdb48b7007520f5861d961962</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-13 00:06:45</sys_updated_on>
+        <table_name/>
+    </sys_sg_ui_parameter>
+</record_update>
