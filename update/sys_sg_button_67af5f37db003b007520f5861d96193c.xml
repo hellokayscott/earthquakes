@@ -2,17 +2,17 @@
     <sys_sg_button action="INSERT_OR_UPDATE">
         <allow_images_upload>false</allow_images_upload>
         <auto_redirection>false</auto_redirection>
-        <cancel_label/>
+        <cancel_label>No</cancel_label>
         <condition/>
         <condition_script/>
         <condition_type>declarative</condition_type>
-        <confirm_label/>
-        <confirmation_message/>
+        <confirm_label>Yes</confirm_label>
+        <confirmation_message>Are you sure you want to update the number of houses destroyed?</confirmation_message>
         <context>record</context>
-        <description/>
+        <description>Update the number of houses destroyed on an earthquake record.</description>
         <destination_screen/>
         <external_browser>false</external_browser>
-        <failure_message>It did not work</failure_message>
+        <failure_message>The number of houses destroyed was not updated.</failure_message>
         <field_name/>
         <jump_to_screen>false</jump_to_screen>
         <label/>
@@ -27,22 +27,22 @@
         <relative_url>true</relative_url>
         <roles/>
         <select_current_record>false</select_current_record>
-        <show_confirmation>false</show_confirmation>
+        <show_confirmation>true</show_confirmation>
         <show_signature>false</show_signature>
         <sms/>
-        <success_message>It worked</success_message>
+        <success_message>Number of houses destroyed  updated to {{houses_destroyed}} for the {{magnitude}} magnitue earthquake in {{country.name}}.</success_message>
         <sys_class_name>sys_sg_button</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-03-14 22:42:49</sys_created_on>
         <sys_id>67af5f37db003b007520f5861d96193c</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Houses destroyed action</sys_name>
         <sys_package display_value="Earthquakes" source="x_58872_earthquake">f6120c5ddbb023006a326a49489619cd</sys_package>
         <sys_policy/>
         <sys_scope display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</sys_scope>
         <sys_update_name>sys_sg_button_67af5f37db003b007520f5861d96193c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-03-14 22:42:49</sys_updated_on>
+        <sys_updated_on>2019-03-18 22:03:56</sys_updated_on>
         <table>x_58872_earthquake_earthquake_data</table>
         <take_value_from_field>false</take_value_from_field>
         <type>write_back</type>

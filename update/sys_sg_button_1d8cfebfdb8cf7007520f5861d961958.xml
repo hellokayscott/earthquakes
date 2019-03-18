@@ -5,14 +5,14 @@
         <cancel_label>Cancel</cancel_label>
         <condition/>
         <condition_script/>
-        <condition_type>declarative</condition_type>
+        <condition_type>script</condition_type>
         <confirm_label>OK</confirm_label>
         <confirmation_message>Are you sure you want to update the number of injuries?</confirmation_message>
         <context>record</context>
         <description>Update the number of injuries on an earthquake record.</description>
         <destination_screen/>
         <external_browser>false</external_browser>
-        <failure_message>The number of Injuries was not updated.</failure_message>
+        <failure_message>Operation conceled by user.  The number of Injuries was not updated.</failure_message>
         <field_name/>
         <jump_to_screen>false</jump_to_screen>
         <label>Injuries</label>
@@ -30,19 +30,19 @@
         <show_confirmation>true</show_confirmation>
         <show_signature>false</show_signature>
         <sms/>
-        <success_message>Number of Injuries updated</success_message>
+        <success_message>Number of Injuries updated to {{injuries}} for the {{magnitude}} earthquake in {{country.name}}.</success_message>
         <sys_class_name>sys_sg_button</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-03-14 21:00:45</sys_created_on>
         <sys_id>1d8cfebfdb8cf7007520f5861d961958</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>Update Injuries</sys_name>
         <sys_package display_value="Earthquakes" source="x_58872_earthquake">f6120c5ddbb023006a326a49489619cd</sys_package>
         <sys_policy/>
         <sys_scope display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</sys_scope>
         <sys_update_name>sys_sg_button_1d8cfebfdb8cf7007520f5861d961958</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-03-14 21:53:43</sys_updated_on>
+        <sys_updated_on>2019-03-18 19:17:51</sys_updated_on>
         <table>x_58872_earthquake_earthquake_data</table>
         <take_value_from_field>false</take_value_from_field>
         <type>write_back</type>

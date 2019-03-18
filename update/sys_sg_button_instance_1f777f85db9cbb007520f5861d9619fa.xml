@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
     <sys_sg_button_instance action="INSERT_OR_UPDATE">
         <active>true</active>
-        <button display_value="Update Injuries">1d8cfebfdb8cf7007520f5861d961958</button>
+        <button display_value="Houses destroyed action">67af5f37db003b007520f5861d96193c</button>
         <description/>
         <field_name/>
-        <label>Update Injuries</label>
+        <label>Update Houses destroyed</label>
         <location>top</location>
-        <name>Update Injuries</name>
+        <name>Update Houses destroyed</name>
         <order>1</order>
         <parent>71fcccb0dbc833007520f5861d961945</parent>
         <parent_table>sys_sg_details_screen</parent_table>
         <sys_class_name>sys_sg_button_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-03-14 21:09:29</sys_created_on>
-        <sys_id>178acbb7dbccf7007520f5861d9619ac</sys_id>
+        <sys_created_on>2019-03-18 21:38:13</sys_created_on>
+        <sys_id>1f777f85db9cbb007520f5861d9619fa</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Update Injuries</sys_name>
+        <sys_name>Update Houses destroyed</sys_name>
         <sys_package display_value="Earthquakes" source="x_58872_earthquake">f6120c5ddbb023006a326a49489619cd</sys_package>
         <sys_policy/>
         <sys_scope display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</sys_scope>
-        <sys_update_name>sys_sg_button_instance_178acbb7dbccf7007520f5861d9619ac</sys_update_name>
+        <sys_update_name>sys_sg_button_instance_1f777f85db9cbb007520f5861d9619fa</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-03-14 21:09:29</sys_updated_on>
+        <sys_updated_on>2019-03-18 21:38:13</sys_updated_on>
         <table/>
     </sys_sg_button_instance>
 </record_update>

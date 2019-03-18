@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
     <sys_push_notif_app_install action="INSERT_OR_UPDATE">
         <active>true</active>
-        <last_registered_on>2019-03-14 17:58:30</last_registered_on>
+        <last_registered_on>2019-03-18 21:47:44</last_registered_on>
         <sys_class_name>sys_push_notif_app_install</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-03-07 23:29:20</sys_created_on>
         <sys_id>f367e3e5db8cb3007520f5861d9619c3</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>7202EA0D293267E86BE165037AF8E7BA4A6E8341C735E144B9DA5AB25066F853</sys_name>
         <sys_package display_value="Earthquakes" source="x_58872_earthquake">f6120c5ddbb023006a326a49489619cd</sys_package>
         <sys_policy/>
@@ -15,7 +15,7 @@
         <sys_scope display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</sys_scope>
         <sys_update_name>sys_push_notif_app_install_f367e3e5db8cb3007520f5861d9619c3</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-03-14 17:58:30</sys_updated_on>
+        <sys_updated_on>2019-03-18 21:47:44</sys_updated_on>
         <sys_user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</sys_user_id>
         <token>7202EA0D293267E86BE165037AF8E7BA4A6E8341C735E144B9DA5AB25066F853</token>
     </sys_push_notif_app_install>
