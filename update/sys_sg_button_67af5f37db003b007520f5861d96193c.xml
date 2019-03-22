@@ -14,6 +14,8 @@
         <external_browser>false</external_browser>
         <failure_message>The number of houses destroyed was not updated.</failure_message>
         <field_name/>
+        <hide_buttons>67af5f37db003b007520f5861d96193c</hide_buttons>
+        <hide_fields>houses_destroyed</hide_fields>
         <jump_to_screen>false</jump_to_screen>
         <label/>
         <link_label/>
@@ -22,12 +24,17 @@
         <mail_content/>
         <mail_subject/>
         <name>Houses destroyed action</name>
+        <offline>true</offline>
+        <offline_template_field>houses_destroyed={{Houses destroyed item parameter}}^EQ</offline_template_field>
+        <offline_template_field_table>x_58872_earthquake_earthquake_data</offline_template_field_table>
         <phone_number/>
         <phone_type>cellular</phone_type>
         <relative_url>true</relative_url>
         <roles/>
         <select_current_record>false</select_current_record>
+        <show_buttons/>
         <show_confirmation>true</show_confirmation>
+        <show_fields/>
         <show_signature>false</show_signature>
         <sms/>
         <success_message>Number of houses destroyed  updated to {{houses_destroyed}} for the {{magnitude}} magnitue earthquake in {{country.name}}.</success_message>
@@ -35,17 +42,18 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-03-14 22:42:49</sys_created_on>
         <sys_id>67af5f37db003b007520f5861d96193c</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name>Houses destroyed action</sys_name>
         <sys_package display_value="Earthquakes" source="x_58872_earthquake">f6120c5ddbb023006a326a49489619cd</sys_package>
         <sys_policy/>
         <sys_scope display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</sys_scope>
         <sys_update_name>sys_sg_button_67af5f37db003b007520f5861d96193c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-03-18 22:03:56</sys_updated_on>
+        <sys_updated_on>2019-03-22 23:29:38</sys_updated_on>
         <table>x_58872_earthquake_earthquake_data</table>
         <take_value_from_field>false</take_value_from_field>
         <type>write_back</type>
         <write_back_action_item display_value="Update Houses destroyed">104f1b37db003b007520f5861d9619fe</write_back_action_item>
+        <zombified_screens/>
     </sys_sg_button>
 </record_update>

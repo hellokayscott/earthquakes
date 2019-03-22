@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_style">
+    <sys_sg_ui_style action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_58872_earthquake_earthquake_data">magnitude&lt;=6^EQ<item endquery="false" field="magnitude" goto="false" newquery="false" operator="&lt;=" or="false" value="6"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <field>magnitude</field>
+        <name>Magnitude Less than or Equal to 6</name>
+        <style>{"background_color":"#ff00e7","font_color":"#ffffff"}</style>
+        <sys_class_name>sys_sg_ui_style</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-21 23:28:08</sys_created_on>
+        <sys_id>841dafc2dbd07f007520f5861d96196f</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Magnitude Less than or Equal to 6</sys_name>
+        <sys_package display_value="Earthquakes" source="x_58872_earthquake">f6120c5ddbb023006a326a49489619cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</sys_scope>
+        <sys_update_name>sys_sg_ui_style_841dafc2dbd07f007520f5861d96196f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-21 23:43:11</sys_updated_on>
+        <table>x_58872_earthquake_earthquake_data</table>
+    </sys_sg_ui_style>
+</record_update>

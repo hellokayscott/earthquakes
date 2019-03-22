@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
     <sys_sg_item_view action="INSERT_OR_UPDATE">
         <data_item display_value="Earthquakes Last Year">df10b39cdbccfb007520f5861d96194a</data_item>
-        <dependency_fields>country.name,magnitude,earthquake_date</dependency_fields>
-        <item_view_json>{"Type":"ViewGroup","Margin":{"Top":15,"Bottom":17},"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Children":[{"Type":"Text","Margin":{},"studio_template_field_id":"E1","TextColor":"#293e40","TextAlignment":"Left","MaxLines":2,"Font":{"Weight":"medium","Size":18},"CellId":"country.name"},{"Type":"ViewGroup","Margin":{"Top":12},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","Margin":{"Right":8},"studio_template_is_label":true,"studio_template_field_id":"E2","TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Text":"${magnitude}"},{"Type":"Text","Margin":{},"studio_template_field_id":"E2","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"CellId":"magnitude"}]},{"Type":"ViewGroup","Margin":{"Top":8},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","Margin":{"Right":8},"studio_template_is_label":true,"studio_template_field_id":"E3","TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Text":"${earthquake_date}"},{"Type":"Text","Margin":{},"studio_template_field_id":"E3","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"CellId":"earthquake_date"}]},{"Type":"ViewGroup","Margin":{"Top":8},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","Margin":{"Right":8},"studio_template_is_label":true,"studio_template_field_id":"E4","TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13}},{"Type":"Text","Margin":{},"studio_template_field_id":"E4","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13}}]}],"studio_card_id":"1e53f49d23412300a8ed7f4fc7bf6540"}</item_view_json>
+        <dependency_fields>magnitude,country,earthquake_date</dependency_fields>
+        <item_view_json>{"Type":"ViewGroup","Margin":{"Top":15,"Bottom":17},"Orientation":"Vertical","Alignment":"Stretch","Distribution":"Auto","Children":[{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Equal","Children":[{"Type":"ViewGroup","Margin":{"Right":12},"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Children":[{"Type":"Text","studio_template_field_id":"E1","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Size":16,"Weight":"bold"}}]},{"Type":"ViewGroup","Margin":{},"Orientation":"Vertical","Alignment":"Right","Distribution":"Auto","Children":[{"Type":"Text","Margin":{},"studio_template_field_id":"E2","TextColor":"#293e40","TextAlignment":"Center","MaxLines":1,"Font":{"Weight":"semibold","Size":13},"CornerRadius":2,"BackgroundColor":"#f1f1f1","Height":21,"Width":128,"CellId":"magnitude"}]}]},{"Type":"Text","Margin":{"Top":9},"studio_template_field_id":"E3","TextColor":"#293e40","TextAlignment":"Left","MaxLines":2,"Font":{"Weight":"regular","Size":18},"CellId":"country"},{"Type":"ViewGroup","Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Children":[{"Type":"ViewGroup","Margin":{"Top":12},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","Margin":{"Right":12},"studio_template_field_id":"E4","TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"CellId":"earthquake_date"},{"Type":"Text","Margin":{"Right":12},"TextColor":"#d1d6d8","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular"},"BackgroundColor":"#d1d6d8","Height":12,"Width":1},{"Type":"Text","Margin":{"Right":12},"studio_template_field_id":"E5","TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13}}]},{"Type":"Text","Margin":{"Top":6},"studio_template_field_id":"E6","TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":2,"Font":{"Weight":"regular","Size":13}}]}],"studio_card_id":"580fcc9123412300a8ed7f4fc7bf65ab"}</item_view_json>
         <name>Earthquakes Last Year item view</name>
         <short_description/>
         <sys_class_name>sys_sg_item_view</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-03-04 23:26:12</sys_created_on>
         <sys_id>64f94c30dbc833007520f5861d961953</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Earthquakes Last Year item view</sys_name>
         <sys_package display_value="Earthquakes" source="x_58872_earthquake">f6120c5ddbb023006a326a49489619cd</sys_package>
         <sys_policy/>
         <sys_scope display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</sys_scope>
         <sys_update_name>sys_sg_item_view_64f94c30dbc833007520f5861d961953</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-03-04 23:26:12</sys_updated_on>
-        <ui_styles/>
+        <sys_updated_on>2019-03-21 23:32:52</sys_updated_on>
+        <ui_styles>3a30a30edb907f007520f5861d96190f,841dafc2dbd07f007520f5861d96196f</ui_styles>
     </sys_sg_item_view>
 </record_update>

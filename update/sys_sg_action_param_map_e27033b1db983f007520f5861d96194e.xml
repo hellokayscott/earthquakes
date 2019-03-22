@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Create New">2e02f67ddbd43f007520f5861d9619db</button>
+        <item_parameter display_value="Country">8dc0ba3ddbd43f007520f5861d9619ec</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-21 05:03:30</sys_created_on>
+        <sys_id>e27033b1db983f007520f5861d96194e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>8dc0ba3ddbd43f007520f5861d9619ec</sys_name>
+        <sys_package display_value="Earthquakes" source="x_58872_earthquake">f6120c5ddbb023006a326a49489619cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_e27033b1db983f007520f5861d96194e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-21 05:03:30</sys_updated_on>
+        <ui_parameter display_value="Country">7d6d6331db983f007520f5861d96194c</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

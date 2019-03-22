@@ -6,9 +6,9 @@
         <caller_access/>
         <client_scripts_access>false</client_scripts_access>
         <configuration_access>false</configuration_access>
-        <create_access>false</create_access>
+        <create_access>true</create_access>
         <create_access_controls>true</create_access_controls>
-        <delete_access>false</delete_access>
+        <delete_access>true</delete_access>
         <extension_model/>
         <is_extendable>false</is_extendable>
         <label>Earthquake Data</label>
@@ -24,14 +24,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-09-25 22:49:43</sys_created_on>
         <sys_id>e33244dddbb023006a326a49489619a1</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Earthquake Data</sys_name>
         <sys_package display_value="Earthquakes" source="x_58872_earthquake">f6120c5ddbb023006a326a49489619cd</sys_package>
         <sys_policy/>
         <sys_scope display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</sys_scope>
         <sys_update_name>sys_db_object_e33244dddbb023006a326a49489619a1</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-03-15 03:14:35</sys_updated_on>
+        <sys_updated_on>2019-03-21 00:31:23</sys_updated_on>
         <update_access>true</update_access>
         <user_role display_value="x_58872_earthquake.earthquake_data_user" name="x_58872_earthquake.earthquake_data_user">1a33ccdddbb023006a326a4948961955</user_role>
         <ws_access>true</ws_access>
