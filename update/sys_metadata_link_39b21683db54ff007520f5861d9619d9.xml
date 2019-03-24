@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>5837b8eddb872300c9247bfdae9619f9</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_58872_earthquake_earthquake_data">
+    <x_58872_earthquake_earthquake_data action="INSERT_OR_UPDATE">
+        <country display_value="New Caledonia">9538b7111b121100763d91eebc0713f6</country>
+        <day>29</day>
+        <deaths/>
+        <earthquake_date>2018-08-29 10:51:00</earthquake_date>
+        <hour>3</hour>
+        <houses_destroyed/>
+        <injuries/>
+        <magnitude>7.1</magnitude>
+        <minute>51</minute>
+        <month>8</month>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-16 17:36:32</sys_created_on>
+        <sys_id>5837b8eddb872300c9247bfdae9619f9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-16 17:36:32</sys_updated_on>
+        <tsunami>true</tsunami>
+        <u_string_1/>
+        <year>2018</year>
+    </x_58872_earthquake_earthquake_data>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-24 19:25:47</sys_created_on>
+        <sys_id>39b21683db54ff007520f5861d9619d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Created 2019-01-16 09:36:32</sys_name>
+        <sys_package display_value="Earthquakes" source="x_58872_earthquake">f6120c5ddbb023006a326a49489619cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</sys_scope>
+        <sys_update_name>sys_metadata_link_39b21683db54ff007520f5861d9619d9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-24 19:25:47</sys_updated_on>
+        <tablename>x_58872_earthquake_earthquake_data</tablename>
+    </sys_metadata_link>
+</record_update>
