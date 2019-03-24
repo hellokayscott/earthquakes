@@ -14,7 +14,7 @@
         <external_browser>false</external_browser>
         <failure_message>The number of houses destroyed was not updated.</failure_message>
         <field_name/>
-        <hide_buttons>67af5f37db003b007520f5861d96193c</hide_buttons>
+        <hide_buttons/>
         <hide_fields>houses_destroyed</hide_fields>
         <jump_to_screen>false</jump_to_screen>
         <label/>
@@ -42,18 +42,18 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-03-14 22:42:49</sys_created_on>
         <sys_id>67af5f37db003b007520f5861d96193c</sys_id>
-        <sys_mod_count>9</sys_mod_count>
+        <sys_mod_count>17</sys_mod_count>
         <sys_name>Houses destroyed action</sys_name>
         <sys_package display_value="Earthquakes" source="x_58872_earthquake">f6120c5ddbb023006a326a49489619cd</sys_package>
         <sys_policy/>
         <sys_scope display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</sys_scope>
         <sys_update_name>sys_sg_button_67af5f37db003b007520f5861d96193c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-03-22 23:29:38</sys_updated_on>
+        <sys_updated_on>2019-03-24 19:10:33</sys_updated_on>
         <table>x_58872_earthquake_earthquake_data</table>
         <take_value_from_field>false</take_value_from_field>
         <type>write_back</type>
         <write_back_action_item display_value="Update Houses destroyed">104f1b37db003b007520f5861d9619fe</write_back_action_item>
-        <zombified_screens/>
+        <zombified_screens>777e895fdb08b7007520f5861d9619fb,dc8e819fdb08b7007520f5861d9619d6,d5f98070dbc833007520f5861d961918,c85dd453dbc4b7007520f5861d9619eb,7578059bdb08b7007520f5861d961917,71fcccb0dbc833007520f5861d961945,61d5e32cdb4833007520f5861d9619fe,81d5232cdb4833007520f5861d961962,b4f98070dbc833007520f5861d96194b,19fc0cb0dbc833007520f5861d961943,ab4dd453dbc4b7007520f5861d9619d2,d178c9d7db08b7007520f5861d961952</zombified_screens>
     </sys_sg_button>
 </record_update>
