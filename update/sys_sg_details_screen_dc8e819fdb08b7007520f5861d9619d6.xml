@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_details_screen">
     <sys_sg_details_screen action="INSERT_OR_UPDATE">
-        <application_roles/>
+        <active>false</active>
         <available_offline>false</available_offline>
-        <data_item display_value="Country">fc2d815fdb08b7007520f5861d961947</data_item>
         <description>sldkfjds</description>
+        <dynamic_prefetch_count/>
         <fetch_type>not_required</fetch_type>
-        <hidden>false</hidden>
+        <hide_filters>false</hide_filters>
         <icon display_value="file-alt">077e819fdb08b7007520f5861d9619ab</icon>
-        <item_view display_value="Country quakes detail item view">b37e819fdb08b7007520f5861d9619ae</item_view>
         <name>Details</name>
-        <order>10</order>
-        <parent>408e819fdb08b7007520f5861d9619b1</parent>
-        <parent_table>sys_sg_master_item</parent_table>
         <roles_override/>
         <sys_class_name>sys_sg_details_screen</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -25,5 +21,7 @@
         <sys_update_name>sys_sg_details_screen_dc8e819fdb08b7007520f5861d9619d6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-03-12 22:50:33</sys_updated_on>
+        <table/>
     </sys_sg_details_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=dc8e819fdb08b7007520f5861d9619d6"/>
 </record_update>

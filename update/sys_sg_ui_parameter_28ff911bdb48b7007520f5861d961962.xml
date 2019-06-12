@@ -16,7 +16,7 @@
         <order/>
         <parameter_type>screen</parameter_type>
         <placeholder/>
-        <screen display_value="My Period">ab4dd453dbc4b7007520f5861d9619d2</screen>
+        <screen display_value="">ab4dd453dbc4b7007520f5861d9619d2</screen>
         <search_type>starts_with</search_type>
         <source_field/>
         <sys_class_name>sys_sg_ui_parameter</sys_class_name>
@@ -33,4 +33,5 @@
         <sys_updated_on>2019-03-13 00:06:45</sys_updated_on>
         <table_name/>
     </sys_sg_ui_parameter>
+    <sys_translated_text action="delete_multiple" query="documentkey=28ff911bdb48b7007520f5861d961962"/>
 </record_update>

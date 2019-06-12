@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_details_screen">
     <sys_sg_details_screen action="INSERT_OR_UPDATE">
-        <application_roles/>
+        <active>false</active>
         <available_offline>true</available_offline>
-        <data_item display_value="Earthquakes Last Year">df10b39cdbccfb007520f5861d96194a</data_item>
         <description>List of Earthquakes from Last Year</description>
+        <dynamic_prefetch_count/>
         <fetch_type>not_required</fetch_type>
-        <hidden>false</hidden>
+        <hide_filters>false</hide_filters>
         <icon display_value="file-alt">04f98070dbc833007520f5861d961912</icon>
-        <item_view display_value="Earthquakes Last Year detail item view">e4f98070dbc833007520f5861d961915</item_view>
         <name>Details</name>
-        <order>10</order>
-        <parent>81f98070dbc833007520f5861d96194f</parent>
-        <parent_table>sys_sg_master_item</parent_table>
         <roles_override/>
         <sys_class_name>sys_sg_details_screen</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -25,5 +21,7 @@
         <sys_update_name>sys_sg_details_screen_d5f98070dbc833007520f5861d961918</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-03-24 18:53:14</sys_updated_on>
+        <table/>
     </sys_sg_details_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=d5f98070dbc833007520f5861d961918"/>
 </record_update>

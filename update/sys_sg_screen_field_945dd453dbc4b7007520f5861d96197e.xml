@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
     <sys_sg_screen_field action="INSERT_OR_UPDATE">
         <data_item_field_name>deaths</data_item_field_name>
+        <description_text/>
+        <description_text_field/>
+        <description_text_type/>
+        <field_name/>
         <hidden>false</hidden>
         <order>20</order>
+        <record_id_field/>
         <screen display_value="Details">c85dd453dbc4b7007520f5861d9619eb</screen>
         <screen_data_item_table>x_58872_earthquake_earthquake_data</screen_data_item_table>
         <sys_class_name>sys_sg_screen_field</sys_class_name>
@@ -18,5 +23,7 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-03-12 19:15:39</sys_updated_on>
         <type>auto</type>
+        <value_only>false</value_only>
     </sys_sg_screen_field>
+    <sys_translated_text action="delete_multiple" query="documentkey=945dd453dbc4b7007520f5861d96197e"/>
 </record_update>

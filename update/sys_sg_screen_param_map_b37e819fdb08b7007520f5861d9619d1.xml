@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_param_map">
     <sys_sg_screen_param_map action="INSERT_OR_UPDATE">
         <item_parameter display_value="Country">a66dc55fdb08b7007520f5861d9619a7</item_parameter>
-        <screen display_value="Country quakes">777e895fdb08b7007520f5861d9619fb</screen>
+        <screen display_value="">777e895fdb08b7007520f5861d9619fb</screen>
         <sys_class_name>sys_sg_screen_param_map</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-03-12 22:50:31</sys_created_on>

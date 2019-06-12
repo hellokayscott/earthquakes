@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_details_screen">
     <sys_sg_details_screen action="INSERT_OR_UPDATE">
-        <application_roles/>
+        <active>false</active>
         <available_offline>false</available_offline>
-        <data_item display_value="Earthquakes during Period">7e7913e0db4833007520f5861d9619b8</data_item>
         <description>earthquakes during a period I define</description>
+        <dynamic_prefetch_count/>
         <fetch_type>not_required</fetch_type>
-        <hidden>false</hidden>
+        <hide_filters>false</hide_filters>
         <icon display_value="calendar-alt">2a4dd453dbc4b7007520f5861d9619a0</icon>
-        <item_view display_value="My Period detail item view">474dd453dbc4b7007520f5861d961976</item_view>
         <name>Details</name>
-        <order>10</order>
-        <parent>b74dd453dbc4b7007520f5861d9619a5</parent>
-        <parent_table>sys_sg_master_item</parent_table>
         <roles_override/>
         <sys_class_name>sys_sg_details_screen</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -25,5 +21,7 @@
         <sys_update_name>sys_sg_details_screen_c85dd453dbc4b7007520f5861d9619eb</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-03-12 19:15:38</sys_updated_on>
+        <table/>
     </sys_sg_details_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=c85dd453dbc4b7007520f5861d9619eb"/>
 </record_update>

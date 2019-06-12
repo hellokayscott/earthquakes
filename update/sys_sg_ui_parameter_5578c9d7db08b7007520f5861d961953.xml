@@ -16,7 +16,7 @@
         <order>0</order>
         <parameter_type>screen</parameter_type>
         <placeholder/>
-        <screen display_value="My quakes">d178c9d7db08b7007520f5861d961952</screen>
+        <screen display_value="">d178c9d7db08b7007520f5861d961952</screen>
         <search_type>starts_with</search_type>
         <source_field/>
         <sys_class_name>sys_sg_ui_parameter</sys_class_name>
@@ -33,4 +33,5 @@
         <sys_updated_on>2019-03-12 22:24:07</sys_updated_on>
         <table_name/>
     </sys_sg_ui_parameter>
+    <sys_translated_text action="delete_multiple" query="documentkey=5578c9d7db08b7007520f5861d961953"/>
 </record_update>

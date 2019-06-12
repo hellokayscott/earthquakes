@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
     <sys_sg_master_item action="INSERT_OR_UPDATE">
-        <condition/>
         <condition_order/>
+        <datasource_table/>
+        <datasource_table_condition/>
+        <embedded_screen/>
         <item_view display_value="My quakes item view">b878c19bdb08b7007520f5861d96198f</item_view>
         <name>Master Item</name>
-        <screen display_value="My quakes">d178c9d7db08b7007520f5861d961952</screen>
         <sys_class_name>sys_sg_master_item</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-03-12 22:24:09</sys_created_on>
@@ -17,6 +18,5 @@
         <sys_update_name>sys_sg_master_item_a178059bdb08b7007520f5861d961902</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-03-12 22:24:09</sys_updated_on>
-        <table>x_58872_earthquake_earthquake_data</table>
     </sys_sg_master_item>
 </record_update>

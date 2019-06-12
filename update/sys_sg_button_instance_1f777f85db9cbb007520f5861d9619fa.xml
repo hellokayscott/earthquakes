@@ -2,8 +2,10 @@
     <sys_sg_button_instance action="INSERT_OR_UPDATE">
         <active>true</active>
         <button display_value="Houses destroyed action">67af5f37db003b007520f5861d96193c</button>
+        <color_theme/>
         <description/>
         <field_name/>
+        <icon/>
         <label>Update Houses destroyed</label>
         <location>top</location>
         <name>Update Houses destroyed</name>
@@ -24,4 +26,5 @@
         <sys_updated_on>2019-03-18 21:38:13</sys_updated_on>
         <table/>
     </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=1f777f85db9cbb007520f5861d9619fa"/>
 </record_update>

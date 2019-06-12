@@ -2,8 +2,10 @@
     <sys_sg_button_instance action="INSERT_OR_UPDATE">
         <active>true</active>
         <button display_value="Create New">2e02f67ddbd43f007520f5861d9619db</button>
+        <color_theme/>
         <description/>
         <field_name/>
+        <icon/>
         <label>Create New</label>
         <location>top</location>
         <name>Create New</name>
@@ -24,4 +26,5 @@
         <sys_updated_on>2019-03-21 04:54:19</sys_updated_on>
         <table/>
     </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=8f7e2f31db983f007520f5861d961906"/>
 </record_update>

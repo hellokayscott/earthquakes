@@ -48,15 +48,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-09-25 23:31:49</sys_created_on>
-        <sys_id>620cec65db872300c9247bfdae9619ca</sys_id>
+        <sys_id>eff84e2cdbc23f00d7b55995ce9619b1</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>TOTAL_HOUSES_DESTROYED_DESCRIPTION</sys_name>
         <sys_package display_value="Earthquakes" source="x_58872_earthquake">f6120c5ddbb023006a326a49489619cd</sys_package>
         <sys_policy/>
         <sys_scope display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</sys_scope>
         <sys_update_name>sys_dictionary_x_58872_earthquake_earthquake_import_u_total_houses_ed_descriptio0</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2019-01-16 16:48:03</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 00:08:41</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

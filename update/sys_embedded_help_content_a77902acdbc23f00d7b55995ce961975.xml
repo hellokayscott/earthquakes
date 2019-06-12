@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <content><![CDATA[<h1 class="title topictitle1">Earthquake Data Records</h1>
+<h2 class="title sectiontitle">Where does the data come from?</h2>
+<p>Data for Earthquake records comes from <a title="data.gov." href="https://www.data.gov/" target="_blank" rel="noopener">data.gov.</a>  Data.gov is maintained by the United States government and hosts data available for public use.</p>
+<h2 class="title sectiontitle">How do I update an earthquake record?</h2>
+<p>In most cases Earthquake records should not be modified.  If you think an Earthquake record is inaccurate or needs to be modified, contact the Earthquake record administration team:  <a href="mailto:quake_admin&#64;example.com">quake_admin&#64;example.com</a>. </p>
+<ol class="steps-ordered"><li class="li step">Explain why you think the Earthquake record is inaccurate.</li><li>Cite your sources.</li></ol>
+<div class="note tm-element"><span class="notetitle">Note:  Earthquake records are updated from the data.gov site every day at 23:00.</span></div>
+<h1 class="title topictitle1"> </h1>
+<div class="related-links role-embedded_help_admin tm-element">
+<div class="relinfo">
+<div class="reltitle">Related information<br />
+<ul><li><a class="local-link" href="http://catalog.data.gov/dataset/earthquake-feeds#topic&#61;disasters-legacy_navigation">Earthquake Feeds</a> </li><li><a class="local-link" href="http://catalog.data.gov/dataset/seismic-hazard-map-for-the-united-states-direct-download#topic&#61;disasters-legacy_navigation">Earthquake Hazard Assessments</a> </li></ul>
+</div>
+</div>
+</div>
+<p> </p>
+<p> </p>]]></content>
+        <last_sync/>
+        <modifier>normal</modifier>
+        <name>Earthquake Data Form - User</name>
+        <page>x_58872_earthquake_earthquake_data_list</page>
+        <product>1</product>
+        <qualifier/>
+        <role display_value="x_58872_earthquake.earthquake_data_user" name="x_58872_earthquake.earthquake_data_user">1a33ccdddbb023006a326a4948961955</role>
+        <role_order>1000</role_order>
+        <snc_created>false</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 00:37:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a77902acdbc23f00d7b55995ce961975</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Earthquake Data Form - User</sys_name>
+        <sys_package display_value="Earthquakes" source="x_58872_earthquake">f6120c5ddbb023006a326a49489619cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</sys_scope>
+        <sys_update_name>sys_embedded_help_content_a77902acdbc23f00d7b55995ce961975</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 01:19:08</sys_updated_on>
+        <version>all</version>
+    </sys_embedded_help_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=a77902acdbc23f00d7b55995ce961975"/>
+</record_update>

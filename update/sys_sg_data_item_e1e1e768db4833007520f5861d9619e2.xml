@@ -21,4 +21,5 @@
         <sys_updated_on>2019-03-04 20:31:14</sys_updated_on>
         <table>x_58872_earthquake_earthquake_data</table>
     </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=e1e1e768db4833007520f5861d9619e2"/>
 </record_update>
