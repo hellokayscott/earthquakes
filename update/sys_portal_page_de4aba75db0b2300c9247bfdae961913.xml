@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2019-01-17 23:49:44">
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2019-08-06 19:05:03">
     <sys_portal_page action="INSERT_OR_UPDATE">
         <layout/>
         <order/>
@@ -341,6 +341,86 @@
                         <sys_updated_by>admin</sys_updated_by>
                         <sys_updated_on>2019-01-17 23:43:52</sys_updated_on>
                         <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">de4aba75db0b2300c9247bfdae961913</page>
+                <summary>#New Score</summary>
+                <sys_created_by>devprog</sys_created_by>
+                <sys_created_on>2019-07-12 19:08:49</sys_created_on>
+                <sys_id>8abde0aedbaa3300651e5011ce96199b</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>devprog</sys_updated_by>
+                <sys_updated_on>2019-07-12 19:08:49</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_time</name>
+                        <portal_section display_value="Created 2019-07-12 12:08:49">8abde0aedbaa3300651e5011ce96199b</portal_section>
+                        <sys_created_by>devprog</sys_created_by>
+                        <sys_created_on>2019-07-12 19:08:49</sys_created_on>
+                        <sys_id>06bde0aedbaa3300651e5011ce96199d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>devprog</sys_updated_by>
+                        <sys_updated_on>2019-07-12 19:08:49</sys_updated_on>
+                        <value>0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2019-07-12 12:08:49">8abde0aedbaa3300651e5011ce96199b</portal_section>
+                        <sys_created_by>devprog</sys_created_by>
+                        <sys_created_on>2019-07-12 19:08:49</sys_created_on>
+                        <sys_id>42bde0aedbaa3300651e5011ce96199d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>devprog</sys_updated_by>
+                        <sys_updated_on>2019-07-12 19:08:49</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2019-07-12 12:08:49">8abde0aedbaa3300651e5011ce96199b</portal_section>
+                        <sys_created_by>devprog</sys_created_by>
+                        <sys_created_on>2019-07-12 19:08:49</sys_created_on>
+                        <sys_id>82bde0aedbaa3300651e5011ce96199c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>devprog</sys_updated_by>
+                        <sys_updated_on>2019-07-12 19:08:49</sys_updated_on>
+                        <value>-1</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2019-07-12 12:08:49">8abde0aedbaa3300651e5011ce96199b</portal_section>
+                        <sys_created_by>devprog</sys_created_by>
+                        <sys_created_on>2019-07-12 19:08:49</sys_created_on>
+                        <sys_id>82bde0aedbaa3300651e5011ce96199e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>devprog</sys_updated_by>
+                        <sys_updated_on>2019-07-12 19:08:49</sys_updated_on>
+                        <value>score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2019-07-12 12:08:49">8abde0aedbaa3300651e5011ce96199b</portal_section>
+                        <sys_created_by>devprog</sys_created_by>
+                        <sys_created_on>2019-07-12 19:08:49</sys_created_on>
+                        <sys_id>8ebde0aedbaa3300651e5011ce96199c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>devprog</sys_updated_by>
+                        <sys_updated_on>2019-07-12 19:08:49</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2019-07-12 12:08:49">8abde0aedbaa3300651e5011ce96199b</portal_section>
+                        <sys_created_by>devprog</sys_created_by>
+                        <sys_created_on>2019-07-12 19:08:49</sys_created_on>
+                        <sys_id>c6bde0aedbaa3300651e5011ce96199d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>devprog</sys_updated_by>
+                        <sys_updated_on>2019-07-12 19:08:49</sys_updated_on>
+                        <value>#New Score</value>
                     </sys_portal_preferences>
                 </related_items_node>
             </sys_portal>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="Last year">cd8eb075db7abb00651e5011ce9619d3</data_item>
+        <interleaved_field/>
+        <name>Earthquakes Last Year Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>devprog</sys_created_by>
+        <sys_created_on>2019-07-22 22:45:50</sys_created_on>
+        <sys_id>da4f3c75db7abb00651e5011ce9619c3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Earthquakes Last Year Item Stream</sys_name>
+        <sys_package display_value="Earthquakes" source="x_58872_earthquake">f6120c5ddbb023006a326a49489619cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</sys_scope>
+        <sys_update_name>sys_sg_item_stream_da4f3c75db7abb00651e5011ce9619c3</sys_update_name>
+        <sys_updated_by>devprog</sys_updated_by>
+        <sys_updated_on>2019-07-22 22:45:50</sys_updated_on>
+        <table>x_58872_earthquake_earthquake_data</table>
+    </sys_sg_item_stream>
+</record_update>

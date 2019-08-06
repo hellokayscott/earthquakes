@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_widgets">
     <pa_widgets action="INSERT_OR_UPDATE">
         <aggregate/>
+        <alignment/>
         <breakdown/>
         <breakdown_level2/>
         <breakdown_page_size>5</breakdown_page_size>
@@ -57,6 +58,7 @@
         <lookup_name/>
         <manual_elements>false</manual_elements>
         <max_color/>
+        <multiple_elements_view/>
         <name>Monthly New Earthquakes</name>
         <number_of_records>5</number_of_records>
         <percentages>no_percentages</percentages>
@@ -64,18 +66,28 @@
         <pivot_breakdown/>
         <pivot_elements_filter/>
         <related_dashboards>0</related_dashboards>
+        <score_font_size/>
         <scorecard_options>all</scorecard_options>
         <show_bar>false</show_bar>
         <show_breakdown_selector>true</show_breakdown_selector>
+        <show_change>false</show_change>
+        <show_change_perc>false</show_change_perc>
+        <show_comparison_date>false</show_comparison_date>
         <show_data_labels>false</show_data_labels>
         <show_empty_elements>true</show_empty_elements>
+        <show_gap>false</show_gap>
+        <show_gap_perc>false</show_gap_perc>
         <show_legend>true</show_legend>
+        <show_on_click_link_label>false</show_on_click_link_label>
         <show_range_selector>false</show_range_selector>
+        <show_target>false</show_target>
         <show_top_x/>
         <show_total>false</show_total>
+        <show_trend>false</show_trend>
         <show_visualization_selector>true</show_visualization_selector>
         <sort_direction>asc</sort_direction>
         <sort_on>value</sort_on>
+        <subtitle/>
         <sys_class_name>pa_widgets</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-01-17 22:11:49</sys_created_on>

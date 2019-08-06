@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="Earthquakes">d284ddc2dbf6fb00651e5011ce9619d2</applet_launcher>
+        <order>30</order>
+        <section display_value="More Data">78173ad6db7a3f00651e5011ce9619e0</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>devprog2</sys_created_by>
+        <sys_created_on>2019-07-24 20:46:10</sys_created_on>
+        <sys_id>bc173ad6db7a3f00651e5011ce9619e4</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Earthquakes" source="x_58872_earthquake">f6120c5ddbb023006a326a49489619cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_bc173ad6db7a3f00651e5011ce9619e4</sys_update_name>
+        <sys_updated_by>devprog2</sys_updated_by>
+        <sys_updated_on>2019-07-24 22:47:32</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+</record_update>

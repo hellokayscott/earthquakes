@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="DELETE">
+        <default_value/>
+        <name>Period end</name>
+        <parent>bb49435adbba3f00651e5011ce96193a</parent>
+        <parent_table>sys_sg_data_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>devprog2</sys_created_by>
+        <sys_created_on>2019-08-01 17:17:44</sys_created_on>
+        <sys_id>75149fbcdb8bf340d7b55995ce96199a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Period end</sys_name>
+        <sys_package display_value="Earthquakes" source="x_58872_earthquake">f6120c5ddbb023006a326a49489619cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_75149fbcdb8bf340d7b55995ce96199a</sys_update_name>
+        <sys_updated_by>devprog2</sys_updated_by>
+        <sys_updated_on>2019-08-01 17:17:44</sys_updated_on>
+        <type>date</type>
+    </sys_sg_item_parameter>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</application>
+        <file_path/>
+        <instance_id>8c4c6c9fdb1537c452cec59705961990</instance_id>
+        <instance_name>niedzielny</instance_name>
+        <name>sys_sg_item_parameter_75149fbcdb8bf340d7b55995ce96199a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter"><sys_sg_item_parameter action="INSERT_OR_UPDATE"><default_value/><name>Period end</name><parent>bb49435adbba3f00651e5011ce96193a</parent><parent_table>sys_sg_data_item</parent_table><sys_class_name>sys_sg_item_parameter</sys_class_name><sys_created_by>devprog2</sys_created_by><sys_created_on>2019-08-01 17:17:44</sys_created_on><sys_id>75149fbcdb8bf340d7b55995ce96199a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Period end</sys_name><sys_package display_value="Earthquakes" source="x_58872_earthquake">f6120c5ddbb023006a326a49489619cd</sys_package><sys_policy/><sys_scope display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</sys_scope><sys_update_name>sys_sg_item_parameter_75149fbcdb8bf340d7b55995ce96199a</sys_update_name><sys_updated_by>devprog2</sys_updated_by><sys_updated_on>2019-08-01 17:17:44</sys_updated_on><type>date</type></sys_sg_item_parameter></record_update>]]></payload>
+        <payload_hash>-1645848761</payload_hash>
+        <record_name>Period end</record_name>
+        <reverted_from/>
+        <source>2af71e7ddb6a3300651e5011ce9619f2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>devprog2</sys_created_by>
+        <sys_created_on>2019-08-01 17:17:44</sys_created_on>
+        <sys_id>b5149fbcdb8bf340d7b55995ce96199c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16c4e3001860000001</sys_recorded_at>
+        <sys_updated_by>devprog2</sys_updated_by>
+        <sys_updated_on>2019-08-01 17:17:44</sys_updated_on>
+        <type>Item Parameter</type>
+        <update_guid>fd149fbc778bf34093f77ed14db4af9b</update_guid>
+        <update_guid_history>fd149fbc778bf34093f77ed14db4af9b:-1645848761</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>devprog2</sys_created_by>
+        <sys_created_on>2019-08-01 17:18:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_item_parameter">sys_sg_item_parameter</sys_db_object>
+        <sys_id>09a9d574183c4ea2b6a9a0cc259d2b89</sys_id>
+        <sys_metadata>75149fbcdb8bf340d7b55995ce96199a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Period end</sys_name>
+        <sys_package display_value="Earthquakes" source="x_58872_earthquake">f6120c5ddbb023006a326a49489619cd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</sys_scope>
+        <sys_scope_delete display_value="">0b28a558b7194efc809c48a2aa8a6d90</sys_scope_delete>
+        <sys_update_name>sys_sg_item_parameter_75149fbcdb8bf340d7b55995ce96199a</sys_update_name>
+        <sys_update_version display_value="sys_sg_item_parameter_75149fbcdb8bf340d7b55995ce96199a">b5149fbcdb8bf340d7b55995ce96199c</sys_update_version>
+        <sys_updated_by>devprog2</sys_updated_by>
+        <sys_updated_on>2019-08-01 17:18:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

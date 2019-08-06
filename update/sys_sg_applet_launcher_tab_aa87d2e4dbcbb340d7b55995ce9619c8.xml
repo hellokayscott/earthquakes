@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="Earthquakes">d284ddc2dbf6fb00651e5011ce9619d2</applet_launcher>
+        <icon display_value="Home icon">ee8cc3367330330018eea18d4ef6a7d7</icon>
+        <label>TEST</label>
+        <roles/>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>devprog2</sys_created_by>
+        <sys_created_on>2019-07-31 18:15:10</sys_created_on>
+        <sys_id>aa87d2e4dbcbb340d7b55995ce9619c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TEST</sys_name>
+        <sys_package display_value="Earthquakes" source="x_58872_earthquake">f6120c5ddbb023006a326a49489619cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_aa87d2e4dbcbb340d7b55995ce9619c8</sys_update_name>
+        <sys_updated_by>devprog2</sys_updated_by>
+        <sys_updated_on>2019-07-31 18:15:10</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

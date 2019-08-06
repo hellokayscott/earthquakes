@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description>Earthquakes last year</description>
+        <group_by/>
+        <name>Last year</name>
+        <query_condition table="x_58872_earthquake_earthquake_data">earthquake_dateONLast year@javascript:gs.beginningOfLastYear()@javascript:gs.endOfLastYear()^ORDERBYearthquake_date<item endquery="false" field="earthquake_date" goto="false" newquery="false" operator="ON" or="false" value="Last year@javascript:gs.beginningOfLastYear()@javascript:gs.endOfLastYear()"/>
+            <item endquery="false" field="" goto="false" newquery="false" operator="ORDERBY" or="false" value="earthquake_date"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>devprog</sys_created_by>
+        <sys_created_on>2019-07-22 22:42:28</sys_created_on>
+        <sys_id>cd8eb075db7abb00651e5011ce9619d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Last year</sys_name>
+        <sys_package display_value="Earthquakes" source="x_58872_earthquake">f6120c5ddbb023006a326a49489619cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</sys_scope>
+        <sys_update_name>sys_sg_data_item_cd8eb075db7abb00651e5011ce9619d3</sys_update_name>
+        <sys_updated_by>devprog</sys_updated_by>
+        <sys_updated_on>2019-07-22 22:42:28</sys_updated_on>
+        <table>x_58872_earthquake_earthquake_data</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=cd8eb075db7abb00651e5011ce9619d3"/>
+</record_update>

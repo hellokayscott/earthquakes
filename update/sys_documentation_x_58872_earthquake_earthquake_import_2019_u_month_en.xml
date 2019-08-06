@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_month" label="MONTH" language="en" table="x_58872_earthquake_earthquake_import_2019">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_month</element>
+            <help/>
+            <hint/>
+            <label>MONTH</label>
+            <language>en</language>
+            <name>x_58872_earthquake_earthquake_import_2019</name>
+            <plural>MONTHs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>devprog2</sys_created_by>
+            <sys_created_on>2019-07-24 21:22:16</sys_created_on>
+            <sys_id>295f3e9edb7a3f00651e5011ce961904</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>MONTH</sys_name>
+            <sys_package display_value="Earthquakes" source="x_58872_earthquake">f6120c5ddbb023006a326a49489619cd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</sys_scope>
+            <sys_update_name>sys_documentation_x_58872_earthquake_earthquake_import_2019_u_month_en</sys_update_name>
+            <sys_updated_by>devprog2</sys_updated_by>
+            <sys_updated_on>2019-07-24 21:22:16</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

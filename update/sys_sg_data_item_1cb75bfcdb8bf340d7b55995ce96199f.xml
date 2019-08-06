@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <name>My Time Range</name>
+        <query_condition table="x_58872_earthquake_earthquake_data">earthquake_date&gt;={{Period start}}^earthquake_date&lt;={{Period end}}^ORDERBYearthquake_date<item endquery="false" field="earthquake_date" goto="false" newquery="false" operator="&gt;=" or="false" value="{{Period start}}"/>
+            <item endquery="false" field="earthquake_date" goto="false" newquery="false" operator="&lt;=" or="false" value="{{Period end}}"/>
+            <item endquery="false" field="" goto="false" newquery="false" operator="ORDERBY" or="false" value="earthquake_date"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>devprog2</sys_created_by>
+        <sys_created_on>2019-08-01 17:33:29</sys_created_on>
+        <sys_id>1cb75bfcdb8bf340d7b55995ce96199f</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>My Time Range</sys_name>
+        <sys_package display_value="Earthquakes" source="x_58872_earthquake">f6120c5ddbb023006a326a49489619cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</sys_scope>
+        <sys_update_name>sys_sg_data_item_1cb75bfcdb8bf340d7b55995ce96199f</sys_update_name>
+        <sys_updated_by>devprog2</sys_updated_by>
+        <sys_updated_on>2019-08-01 23:18:00</sys_updated_on>
+        <table>x_58872_earthquake_earthquake_data</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=1cb75bfcdb8bf340d7b55995ce96199f"/>
+</record_update>
