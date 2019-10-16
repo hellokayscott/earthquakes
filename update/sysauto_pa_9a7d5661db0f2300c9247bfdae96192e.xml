@@ -2,10 +2,12 @@
     <sysauto_pa action="INSERT_OR_UPDATE">
         <active>true</active>
         <benchmarking>false</benchmarking>
+        <business_calendar/>
         <collect>scores_text</collect>
         <condition/>
         <conditional>false</conditional>
         <description/>
+        <entered_time/>
         <kill_job>false</kill_job>
         <name>temporary job for collecting Earthquakes by Country</name>
         <run_as display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</run_as>
@@ -37,6 +39,7 @@
         <sys_update_name>sysauto_pa_9a7d5661db0f2300c9247bfdae96192e</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-01-17 01:03:24</sys_updated_on>
+        <time_zone/>
         <upgrade_safe>false</upgrade_safe>
     </sysauto_pa>
     <sys_translated_text action="delete_multiple" query="documentkey=9a7d5661db0f2300c9247bfdae96192e"/>

@@ -3,6 +3,7 @@
         <condition_type>declarative</condition_type>
         <description>Most recent (this quarter)</description>
         <group_by/>
+        <instance_relative_url_qc/>
         <name>Most recent</name>
         <query_condition table="x_58872_earthquake_earthquake_data">earthquake_dateONThis quarter@javascript:gs.beginningOfThisQuarter()@javascript:gs.endOfThisQuarter()^ORDERBYDESCearthquake_date<item endquery="false" field="earthquake_date" goto="false" newquery="false" operator="ON" or="false" value="This quarter@javascript:gs.beginningOfThisQuarter()@javascript:gs.endOfThisQuarter()"/>
             <item endquery="false" field="" goto="false" newquery="false" operator="ORDERBYDESC" or="false" value="earthquake_date"/>

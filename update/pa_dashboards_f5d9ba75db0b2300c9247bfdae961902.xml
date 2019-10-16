@@ -3,6 +3,7 @@
         <active>true</active>
         <breakdown_source/>
         <color>#ffffff</color>
+        <disable_multiple_element>false</disable_multiple_element>
         <group display_value="Earthquakes">a297eaf9dbc72300c9247bfdae96193c</group>
         <groups/>
         <is_breakdown>false</is_breakdown>

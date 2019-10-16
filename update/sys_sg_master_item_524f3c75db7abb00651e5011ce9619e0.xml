@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
     <sys_sg_master_item action="INSERT_OR_UPDATE">
-        <condition/>
         <condition_order>-1</condition_order>
         <datasource_table>x_58872_earthquake_earthquake_data</datasource_table>
         <datasource_table_condition/>
         <embedded_screen display_value="Earthquakes Last Year">d24f3c75db7abb00651e5011ce9619d7</embedded_screen>
         <item_view display_value="Earthquakes Last Year Item View">d64f3c75db7abb00651e5011ce9619bd</item_view>
         <name>Earthquakes Last Year Master Item</name>
-        <screen/>
         <sys_class_name>sys_sg_master_item</sys_class_name>
         <sys_created_by>devprog</sys_created_by>
         <sys_created_on>2019-07-22 22:45:51</sys_created_on>
@@ -20,6 +18,5 @@
         <sys_update_name>sys_sg_master_item_524f3c75db7abb00651e5011ce9619e0</sys_update_name>
         <sys_updated_by>devprog</sys_updated_by>
         <sys_updated_on>2019-07-22 23:13:55</sys_updated_on>
-        <table/>
     </sys_sg_master_item>
 </record_update>

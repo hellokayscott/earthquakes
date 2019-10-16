@@ -5,6 +5,7 @@
         <destination_screen display_value="Newest">c0a013dedbba3f00651e5011ce961996</destination_screen>
         <display_title>true</display_title>
         <hide_header>false</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
         <max_items_display_count>15</max_items_display_count>
         <orientation>horizontal</orientation>
         <required_roles/>

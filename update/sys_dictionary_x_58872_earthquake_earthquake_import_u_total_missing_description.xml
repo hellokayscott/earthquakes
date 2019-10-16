@@ -48,7 +48,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-09-25 23:31:49</sys_created_on>
-        <sys_id>a5d1de75db6a3300651e5011ce9619b5</sys_id>
+        <sys_id>c0c62e0d1be8001002bb43b4cc4bcb2d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>TOTAL_MISSING_DESCRIPTION</sys_name>
         <sys_package display_value="Earthquakes" source="x_58872_earthquake">f6120c5ddbb023006a326a49489619cd</sys_package>
@@ -56,7 +56,7 @@
         <sys_scope display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</sys_scope>
         <sys_update_name>sys_dictionary_x_58872_earthquake_earthquake_import_u_total_missing_description</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-07-10 18:31:13</sys_updated_on>
+        <sys_updated_on>2019-10-15 22:12:53</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

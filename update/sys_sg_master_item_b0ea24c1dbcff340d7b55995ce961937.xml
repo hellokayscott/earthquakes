@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
     <sys_sg_master_item action="INSERT_OR_UPDATE">
-        <condition/>
         <condition_order>-1</condition_order>
         <datasource_table>x_58872_earthquake_earthquake_data</datasource_table>
         <datasource_table_condition/>
         <embedded_screen display_value="Take2">30ea24c1dbcff340d7b55995ce961930</embedded_screen>
         <item_view display_value="Take2 Item View">acea20c1dbcff340d7b55995ce961935</item_view>
         <name>Take2 Master Item</name>
-        <screen/>
         <sys_class_name>sys_sg_master_item</sys_class_name>
         <sys_created_by>devprog2</sys_created_by>
         <sys_created_on>2019-08-01 23:36:57</sys_created_on>
@@ -20,6 +18,5 @@
         <sys_update_name>sys_sg_master_item_b0ea24c1dbcff340d7b55995ce961937</sys_update_name>
         <sys_updated_by>devprog2</sys_updated_by>
         <sys_updated_on>2019-08-01 23:37:39</sys_updated_on>
-        <table/>
     </sys_sg_master_item>
 </record_update>

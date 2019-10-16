@@ -3,6 +3,7 @@
         <condition_type>declarative</condition_type>
         <description>Earthquakes last month</description>
         <group_by/>
+        <instance_relative_url_qc/>
         <name>Last month</name>
         <query_condition table="x_58872_earthquake_earthquake_data">earthquake_dateONLast month@javascript:gs.beginningOfLastMonth()@javascript:gs.endOfLastMonth()^ORDERBYearthquake_date<item endquery="false" field="earthquake_date" goto="false" newquery="false" operator="ON" or="false" value="Last month@javascript:gs.beginningOfLastMonth()@javascript:gs.endOfLastMonth()"/>
             <item endquery="false" field="" goto="false" newquery="false" operator="ORDERBY" or="false" value="earthquake_date"/>

@@ -1,22 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
     <sys_sg_list_screen action="INSERT_OR_UPDATE">
-        <active>true</active>
-        <application_roles/>
         <available_offline>false</available_offline>
-        <data_item/>
         <description>List of earthquakes from last year</description>
         <dynamic_prefetch_count/>
         <fetch_type>on_demand</fetch_type>
-        <hidden>false</hidden>
         <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
         <icon display_value="icon-Wifi">ca4f30f1db7abb00651e5011ce961952</icon>
-        <item_view/>
         <name>Earthquakes Last Year</name>
-        <order/>
-        <parent/>
-        <parent_table/>
         <roles_override/>
-        <style>regular</style>
         <sys_class_name>sys_sg_list_screen</sys_class_name>
         <sys_created_by>devprog</sys_created_by>
         <sys_created_on>2019-07-22 22:45:50</sys_created_on>
