@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_indicators">
     <pa_indicators action="INSERT_OR_UPDATE">
         <aggregate>1</aggregate>
+        <allow_multi_element_aggregation>false</allow_multi_element_aggregation>
         <benchmarking>false</benchmarking>
         <collect_breakdown_matrix>false</collect_breakdown_matrix>
         <collect_records>true</collect_records>
@@ -30,7 +31,7 @@ x_58872_earthquake_earthquake_data with the condition Earthquake date on this mo
         <frequency>40</frequency>
         <groups/>
         <has_managed_indicators>false</has_managed_indicators>
-        <id>113</id>
+        <id>116</id>
         <key>false</key>
         <label/>
         <linked_indicator/>
@@ -48,7 +49,7 @@ x_58872_earthquake_earthquake_data with the condition Earthquake date on this mo
         <role_override>true</role_override>
         <roles/>
         <score_periods>1000</score_periods>
-        <scores_modified_at>2019-03-24 04:00:04</scores_modified_at>
+        <scores_modified_at>2019-11-11 05:00:10</scores_modified_at>
         <script/>
         <scripted>false</scripted>
         <show_delta>true</show_delta>

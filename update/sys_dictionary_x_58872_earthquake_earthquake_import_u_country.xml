@@ -48,7 +48,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-09-25 23:31:49</sys_created_on>
-        <sys_id>1bf84e2cdbc23f00d7b55995ce961978</sys_id>
+        <sys_id>7d20f2111be00010df0edb9cdc4bcb07</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>COUNTRY</sys_name>
         <sys_package display_value="Earthquakes" source="x_58872_earthquake">f6120c5ddbb023006a326a49489619cd</sys_package>
@@ -56,7 +56,7 @@
         <sys_scope display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</sys_scope>
         <sys_update_name>sys_dictionary_x_58872_earthquake_earthquake_import_u_country</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-06-12 00:08:35</sys_updated_on>
+        <sys_updated_on>2019-10-16 17:32:09</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

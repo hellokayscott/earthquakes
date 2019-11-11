@@ -4,13 +4,13 @@
             <element>earthquake_date</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 22:03:37</sys_created_on>
-            <sys_id>907bccfedb6123006a326a4948961991</sys_id>
+            <sys_created_on>2019-10-16 19:30:59</sys_created_on>
+            <sys_id>ba6b4b991b240010df0edb9cdc4bcb94</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_earthquake_earthquake_data" sys_domain="global" view="Default view">fe301c19dbf023006a326a4948961920</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 22:03:37</sys_updated_on>
+            <sys_updated_on>2019-10-16 19:30:59</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>country</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 22:03:37</sys_created_on>
-            <sys_id>587bccfedb6123006a326a4948961991</sys_id>
+            <sys_created_on>2019-10-16 19:30:59</sys_created_on>
+            <sys_id>726b4b991b240010df0edb9cdc4bcb95</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_earthquake_earthquake_data" sys_domain="global" view="Default view">fe301c19dbf023006a326a4948961920</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 22:03:37</sys_updated_on>
+            <sys_updated_on>2019-10-16 19:30:59</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,97 +32,83 @@
             <element>magnitude</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 22:03:37</sys_created_on>
-            <sys_id>d87bccfedb6123006a326a4948961991</sys_id>
+            <sys_created_on>2019-10-16 19:30:59</sys_created_on>
+            <sys_id>f26b4b991b240010df0edb9cdc4bcb95</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_earthquake_earthquake_data" sys_domain="global" view="Default view">fe301c19dbf023006a326a4948961920</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 22:03:37</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>tsunami</element>
-            <position>3</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 22:03:37</sys_created_on>
-            <sys_id>5c7bccfedb6123006a326a4948961991</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_earthquake_earthquake_data" sys_domain="global" view="Default view">fe301c19dbf023006a326a4948961920</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 22:03:37</sys_updated_on>
+            <sys_updated_on>2019-10-16 19:30:59</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>4</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 22:03:37</sys_created_on>
-            <sys_id>dc7bccfedb6123006a326a4948961991</sys_id>
+            <sys_created_on>2019-10-16 19:30:59</sys_created_on>
+            <sys_id>766b4b991b240010df0edb9cdc4bcb95</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_earthquake_earthquake_data" sys_domain="global" view="Default view">fe301c19dbf023006a326a4948961920</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 22:03:37</sys_updated_on>
+            <sys_updated_on>2019-10-16 19:30:59</sys_updated_on>
             <sys_user/>
             <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>injuries</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-16 19:30:59</sys_created_on>
+            <sys_id>f66b4b991b240010df0edb9cdc4bcb95</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_earthquake_earthquake_data" sys_domain="global" view="Default view">fe301c19dbf023006a326a4948961920</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-16 19:30:59</sys_updated_on>
+            <sys_user/>
+            <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>deaths</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 22:03:37</sys_created_on>
-            <sys_id>507bccfedb6123006a326a4948961992</sys_id>
+            <sys_created_on>2019-10-16 19:30:59</sys_created_on>
+            <sys_id>7a6b4b991b240010df0edb9cdc4bcb95</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_earthquake_earthquake_data" sys_domain="global" view="Default view">fe301c19dbf023006a326a4948961920</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 22:03:37</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>injuries</element>
-            <position>6</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 22:03:37</sys_created_on>
-            <sys_id>d07bccfedb6123006a326a4948961992</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_earthquake_earthquake_data" sys_domain="global" view="Default view">fe301c19dbf023006a326a4948961920</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 22:03:37</sys_updated_on>
+            <sys_updated_on>2019-10-16 19:30:59</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>houses_destroyed</element>
-            <position>7</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 22:03:37</sys_created_on>
-            <sys_id>547bccfedb6123006a326a4948961992</sys_id>
+            <sys_created_on>2019-10-16 19:30:59</sys_created_on>
+            <sys_id>fa6b4b991b240010df0edb9cdc4bcb95</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_earthquake_earthquake_data" sys_domain="global" view="Default view">fe301c19dbf023006a326a4948961920</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 22:03:37</sys_updated_on>
+            <sys_updated_on>2019-10-16 19:30:59</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>day</element>
-            <position>8</position>
+            <element>tsunami</element>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 22:03:37</sys_created_on>
-            <sys_id>d47bccfedb6123006a326a4948961992</sys_id>
+            <sys_created_on>2019-10-16 19:30:59</sys_created_on>
+            <sys_id>7e6b4b991b240010df0edb9cdc4bcb95</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_earthquake_earthquake_data" sys_domain="global" view="Default view">fe301c19dbf023006a326a4948961920</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 22:03:37</sys_updated_on>
+            <sys_updated_on>2019-10-16 19:30:59</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

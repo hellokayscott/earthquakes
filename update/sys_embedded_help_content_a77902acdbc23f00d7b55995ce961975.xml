@@ -22,7 +22,7 @@
         <last_sync/>
         <modifier>normal</modifier>
         <name>Earthquake Data Form - User</name>
-        <page>x_58872_earthquake_earthquake_data_list</page>
+        <page>x_58872_earthquake_earthquake_data</page>
         <product>1</product>
         <qualifier/>
         <role display_value="x_58872_earthquake.earthquake_data_user" name="x_58872_earthquake.earthquake_data_user">1a33ccdddbb023006a326a4948961955</role>
@@ -34,14 +34,14 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>a77902acdbc23f00d7b55995ce961975</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Earthquake Data Form - User</sys_name>
         <sys_package display_value="Earthquakes" source="x_58872_earthquake">f6120c5ddbb023006a326a49489619cd</sys_package>
         <sys_policy/>
         <sys_scope display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</sys_scope>
         <sys_update_name>sys_embedded_help_content_a77902acdbc23f00d7b55995ce961975</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-06-12 01:19:08</sys_updated_on>
+        <sys_updated_on>2019-10-16 19:29:35</sys_updated_on>
         <version>all</version>
     </sys_embedded_help_content>
     <sys_translated_text action="delete_multiple" query="documentkey=a77902acdbc23f00d7b55995ce961975"/>

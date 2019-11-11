@@ -3,6 +3,7 @@
         <condition_type>declarative</condition_type>
         <description>Earthquake records from this year</description>
         <group_by/>
+        <instance_relative_url_qc/>
         <name>Earthquakes this year</name>
         <query_condition table="x_58872_earthquake_earthquake_data">earthquake_dateONThis year@javascript:gs.beginningOfThisYear()@javascript:gs.endOfThisYear()<item endquery="false" field="earthquake_date" goto="false" newquery="false" operator="ON" or="false" value="This year@javascript:gs.beginningOfThisYear()@javascript:gs.endOfThisYear()"/>
         </query_condition>

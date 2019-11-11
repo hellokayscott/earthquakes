@@ -24,7 +24,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_58872_earthquake_earthquake_data" name="x_58872_earthquake_earthquake_data" sys_domain="global" view="Default view">22760787dbb023006a326a49489619fe</sys_ui_form>
-            <sys_ui_section caption="New Section" display_value="New Section" name="x_58872_earthquake_earthquake_data" sys_domain="global" view="Default view">da760787dbb023006a326a49489619fc</sys_ui_section>
+            <sys_ui_section caption="More Informaiton" display_value="More Informaiton" name="x_58872_earthquake_earthquake_data" sys_domain="global" view="Default view">da760787dbb023006a326a49489619fc</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-10-01 23:32:10</sys_updated_on>
         </sys_ui_form_section>

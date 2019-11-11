@@ -12,7 +12,9 @@
         <confirmation_message>Are you sure?</confirmation_message>
         <context>record</context>
         <description/>
+        <destination_alp/>
         <destination_screen/>
+        <destination_type/>
         <external_browser>false</external_browser>
         <failure_message>It did not work!</failure_message>
         <field_name/>

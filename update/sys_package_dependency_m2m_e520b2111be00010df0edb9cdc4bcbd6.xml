@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
     <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
-        <dependency display_value="System Import Sets" source="com.glide.system_import_set">7689ff80dbe13300651e5011ce96196a</dependency>
+        <dependency display_value="System Import Sets" source="com.glide.system_import_set">a6dd9d661b10001002bb43b4cc4bcb17</dependency>
         <min_version>1.0.0</min_version>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-06-12 00:08:20</sys_created_on>
-        <sys_id>47f84e2cdbc23f00d7b55995ce96193c</sys_id>
+        <sys_id>e520b2111be00010df0edb9cdc4bcbd6</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_package display_value="Earthquakes" source="x_58872_earthquake">f6120c5ddbb023006a326a49489619cd</sys_package>
         <sys_updated_by>admin</sys_updated_by>

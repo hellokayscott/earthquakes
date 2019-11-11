@@ -25,6 +25,7 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-03-18 21:38:13</sys_updated_on>
         <table/>
+        <theme_style/>
     </sys_sg_button_instance>
     <sys_translated_text action="delete_multiple" query="documentkey=1f777f85db9cbb007520f5861d9619fa"/>
 </record_update>

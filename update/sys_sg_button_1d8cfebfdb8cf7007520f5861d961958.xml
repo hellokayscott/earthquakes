@@ -12,7 +12,9 @@
         <confirmation_message>Are you sure you want to update the number of injuries?</confirmation_message>
         <context>record</context>
         <description>Update the number of injuries on an earthquake record.</description>
+        <destination_alp/>
         <destination_screen/>
+        <destination_type/>
         <external_browser>false</external_browser>
         <failure_message>Operation conceled by user.  The number of Injuries was not updated.</failure_message>
         <field_name/>

@@ -11,6 +11,8 @@
         <input_style/>
         <input_type>list</input_type>
         <mandatory>true</mandatory>
+        <max_entries/>
+        <multi_entry>false</multi_entry>
         <multi_select>false</multi_select>
         <name>Country</name>
         <order/>
