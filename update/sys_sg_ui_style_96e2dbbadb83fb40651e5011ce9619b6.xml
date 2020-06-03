@@ -4,6 +4,7 @@
         <condition table="x_58872_earthquake_earthquake_data">magnitude&gt;6^EQ<item endquery="false" field="magnitude" goto="false" newquery="false" operator="&gt;" or="false" value="6"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </condition>
+        <ds_visible_only>false</ds_visible_only>
         <field>magnitude</field>
         <item_vew display_value="Earthquakes Last Quarter Item View">69570bd6dbba3f00651e5011ce961996</item_vew>
         <item_view_element>3907</item_view_element>

@@ -30,7 +30,7 @@
         <sys_updated_by>devprog2</sys_updated_by>
         <sys_updated_on>2019-08-01 21:33:13</sys_updated_on>
     </sys_sg_list_screen>
-    <sys_translated_text action="delete_multiple" query="documentkey=409ec00ddb4ff340d7b55995ce96195f"/>
+    <sys_translated_text action="DELETE" query="documentkey=409ec00ddb4ff340d7b55995ce96195f"/>
     <sys_update_version action="INSERT_OR_UPDATE">
         <action>DELETE</action>
         <application display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</application>

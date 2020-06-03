@@ -20,6 +20,7 @@
         <template>houses_destroyed={{Houses destroyed item parameter}}^EQ</template>
         <type>update</type>
         <use_current_record_as_condition>true</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
     </sys_sg_write_back_action_item>
     <sys_translated_text action="delete_multiple" query="documentkey=d60251e6dbcb3b40d7b55995ce961924"/>
 </record_update>

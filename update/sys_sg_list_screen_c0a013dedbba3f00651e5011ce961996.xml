@@ -4,6 +4,7 @@
         <description>Most recent earthquake</description>
         <dynamic_prefetch_count/>
         <fetch_type>on_demand</fetch_type>
+        <filter/>
         <hide_filters>false</hide_filters>
         <hide_screen_name>false</hide_screen_name>
         <icon display_value="icon-Wifi">4ca013dedbba3f00651e5011ce961991</icon>

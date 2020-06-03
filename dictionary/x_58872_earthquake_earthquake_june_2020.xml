@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="earthquake_june_2020" max_length="40" name="x_58872_earthquake_earthquake_june_2020" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=COUNTRY" label="COUNTRY" max_length="44" name="u_country" type="string"/>
+        <element attributes="import_attribute_name=DAY" label="DAY" max_length="40" name="u_day" type="integer"/>
+        <element attributes="import_attribute_name=DEATHS" label="DEATHS" max_length="40" name="u_deaths" type="integer"/>
+        <element attributes="import_attribute_name=EQ_PRIMARY" label="EQ_PRIMARY" max_length="15" name="u_eq_primary" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=FLAG_TSUNAMI" label="FLAG_TSUNAMI" max_length="40" name="u_flag_tsunami" type="string"/>
+        <element attributes="import_attribute_name=HOUR" label="HOUR" max_length="40" name="u_hour" type="integer"/>
+        <element attributes="import_attribute_name=HOUSES_DESTROYED" label="HOUSES_DESTROYED" max_length="40" name="u_houses_destroyed" type="integer"/>
+        <element attributes="import_attribute_name=INJURIES" label="INJURIES" max_length="40" name="u_injuries" type="integer"/>
+        <element attributes="import_attribute_name=MINUTE" label="MINUTE" max_length="40" name="u_minute" type="integer"/>
+        <element attributes="import_attribute_name=MONTH" label="MONTH" max_length="40" name="u_month" type="integer"/>
+        <element attributes="import_attribute_name=YEAR" label="YEAR" max_length="40" name="u_year" type="integer"/>
+    </element>
+</database>

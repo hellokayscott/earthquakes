@@ -4,6 +4,7 @@
         <description>List of earthquakes from last year</description>
         <dynamic_prefetch_count/>
         <fetch_type>on_demand</fetch_type>
+        <filter/>
         <hide_filters>false</hide_filters>
         <hide_screen_name>false</hide_screen_name>
         <icon display_value="icon-Wifi">ca4f30f1db7abb00651e5011ce961952</icon>

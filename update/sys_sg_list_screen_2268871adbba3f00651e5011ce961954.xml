@@ -4,6 +4,7 @@
         <description>Earthquakes last month</description>
         <dynamic_prefetch_count/>
         <fetch_type>on_demand</fetch_type>
+        <filter/>
         <hide_filters>false</hide_filters>
         <hide_screen_name>false</hide_screen_name>
         <icon display_value="icon-Wifi">1a68871adbba3f00651e5011ce96194f</icon>

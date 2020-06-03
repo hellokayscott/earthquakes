@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_deaths" label="DEATHS" language="en" table="x_58872_earthquake_earthquake_june_2020">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_deaths</element>
+            <help/>
+            <hint/>
+            <label>DEATHS</label>
+            <language>en</language>
+            <name>x_58872_earthquake_earthquake_june_2020</name>
+            <plural>DEATHSs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-03 21:20:18</sys_created_on>
+            <sys_id>d4bb8d7f1bc51010eb1496482b4bcb7a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>DEATHS</sys_name>
+            <sys_package display_value="Earthquakes" source="x_58872_earthquake">f6120c5ddbb023006a326a49489619cd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</sys_scope>
+            <sys_update_name>sys_documentation_x_58872_earthquake_earthquake_june_2020_u_deaths_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-03 21:20:18</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

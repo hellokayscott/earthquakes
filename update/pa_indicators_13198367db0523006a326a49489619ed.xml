@@ -31,7 +31,7 @@ It is the sum of the indicator source Earthquakes.NewMonthly which uses the tabl
         <frequency>40</frequency>
         <groups/>
         <has_managed_indicators>false</has_managed_indicators>
-        <id>115</id>
+        <id>131</id>
         <key>false</key>
         <label/>
         <linked_indicator/>

@@ -5,6 +5,7 @@
         <description/>
         <dynamic_prefetch_count/>
         <fetch_type>not_required</fetch_type>
+        <filter/>
         <hide_filters>false</hide_filters>
         <hide_screen_name>false</hide_screen_name>
         <icon display_value="All Icon">5689875adbba3f00651e5011ce9619f6</icon>
